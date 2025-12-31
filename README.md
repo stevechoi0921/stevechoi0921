@@ -1,6 +1,6 @@
-## Hi, I’m Sangcheon Choi. 
+## Hi, I’m Sangcheon Choi, Ph.D.
 
-I am a neuroimaging and AI researcher based in Munich, Germany.
+I am a neuroscientist and AI researcher based in Munich, Germany.
 
 My work focuses on:
 - Functional MRI and neurovascular coupling
