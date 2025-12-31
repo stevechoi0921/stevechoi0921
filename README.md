@@ -9,3 +9,6 @@ My work focuses on:
 
 ### 📄 Research interests
 Functional MRI · neuroimaging · deep learning · transformers · medical imaging · AI for neuroscience
+
+![Profile views](https://komarev.com/ghpvc/?username=stevechoi0921&color=blue)
+
